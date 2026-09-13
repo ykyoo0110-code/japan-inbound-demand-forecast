@@ -4,7 +4,7 @@
 > 2023–2025년 일본의 **숙박 통계 · 국가별 방일객 수 · 기상 데이터**를 결합하여  
 > 지역별 외국인 숙박 수요를 예측하고, SHAP으로 예측 근거를 설명한 머신러닝 프로젝트입니다.
 
-[🚀 Live Demo - Streamlit]([YOUR_STREAMLIT_URL_HERE](https://japan-inbound-demand-forecast-kgfvnn4sva2oubuwwhzooq.streamlit.app/))  
+[🚀 Live Demo - Streamlit][https://japan-inbound-demand-forecast-kgfvnn4sva2oubuwwhzooq.streamlit.app/)]  
 [📑 Portfolio PPT](docs/japan_inbound_portfolio.pptx)
 
 ---
